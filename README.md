@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/ankit_thakur12" target="blank"><img src="https://img.shields.io/twitter/follow/ankit__thakur01?logo=twitter&style=for-the-badge" alt="ankit__thakur01" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently working as a **Full Stack Developer at GlobalXperts**
 
 - 👨‍💻 All of my projects are available at [https://iankitsinghghosh.netlify.app/](https://iankitsinghghosh.netlify.app/)
 
-- 💬 Ask me about **React , Node and React Native**
+- 💬 Ask me about **React , Node, MySql, Tailwind CSS, MongoDB and React Native**
 
 - 📫 How to reach me **ankitsinghghoshi1234@gmail.com**
 
