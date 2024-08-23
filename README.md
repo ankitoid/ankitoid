@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ankitsinghghoshi1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LD2qXizYrdcKPjNXXegV8cppaCHsq-Xe/view?usp=sharing](https://drive.google.com/file/d/1LD2qXizYrdcKPjNXXegV8cppaCHsq-Xe/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iVjPEmuNgtYAHYHh0YFU7apkpCwB3sT_/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am funny**
 
