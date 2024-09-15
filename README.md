@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working as a **Full Stack Developer at GlobalXperts**
 
-- 👨‍💻 All of my projects are available at [https://iankitsinghghosh.netlify.app/](https://iankitsinghghosh.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://ankitsinghghosh.vercel.app/)]
 
 - 💬 Ask me about **React , Node, MySql, Tailwind CSS, MongoDB and React Native**
 
