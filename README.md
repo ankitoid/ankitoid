@@ -3,10 +3,12 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankit%20Singh%20Ghosh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20India%20🇮🇳&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ankit+👋;Full+Stack+Developer+%40+GlobalXperts;React+%7C+Node.js+%7C+React+Native;Building+cool+stuff+one+commit+at+a+time+🚀;Open+to+collaborate+%26+connect!+✨" alt="Typing SVG" />
-</a>
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=700\&lines=Hey+there!+I'm+Ankit+Singh+👋;Full+Stack+Developer+%40+GlobalXperts;React+%7C+Node.js+%7C+React+Native;Building+cool+stuff+one+commit+at+a+time+🚀;Open+to+collaborate+%26+connect+✨)](https://git.io/typing-svg)
+
+</p>
+
 
 <br/>
 
